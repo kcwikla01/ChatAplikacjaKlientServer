@@ -1,0 +1,2 @@
+W celu urchomienia aplikacji proponuję zmienić server_address pierwszy parametr w kazdym pliku na ip komputera na którym chcemy uruchomić aplikację.
+W kolejnym kroku proponuję uruchomić server.py oraz klikamy przycisk uruchom server. W następnym kroku uruchamiamy któryś z plików client1.py lub client2.py oraz podajemy w terminalu pseudonim z jakiego chcemy korzystać oraz kod chatroomu do, którego chcemy dołączyć.
